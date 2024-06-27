@@ -4,6 +4,8 @@
 <img width="633" alt="Screenshot 2024-06-26 175914" src="https://github.com/Krishn9779/Power-BI-Project-Business-Insights-360/assets/157500409/ca0a2943-a16e-4217-a0fe-30f63ec29107">
 
 
+<img width="510" alt="Screenshot 2024-06-26 175802" src="https://github.com/Krishn9779/Power-BI-Project-Business-Insights-360/assets/157500409/a66427fa-bc33-4f5b-b319-28d3514c563a">
+
 ## Project Overview
 AtliQ Hardware, a leading global manufacturer, embarked on a journey to harness data-driven insights crucial for informed decision-making across various business domains. They were facing challenges in finding the insights from the data so we were given the task to create reports and dashboards and find the insights from the data they provided to us.
 ## 𝐓𝐞𝐜𝐡 𝐒𝐤𝐢𝐥𝐥𝐬 𝐭𝐡𝐚𝐭 𝐈 𝐚𝐜𝐪𝐮𝐢𝐫𝐞𝐝
