@@ -25,3 +25,5 @@ CALCULATE, ALLNOBLANKROW, RELATEDTABLE, SAMEPERIODLASTYEAR, SWITCH, HASONEVALUE,
 ## 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧
 Cards & KPIs, Table & Matrix, filtering, Bookmark, Button, Tooltip, Drill Through, tools like Conditional formatting and Top N slicers, and report navigation helped to add interactivity. Charts used - Donut, Scatter, Area, Ribbon, Waterfall, Line and clustered Column.
 ## 𝐋𝐢𝐯𝐞 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗜𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧
+
+https://app.powerbi.com/view?r=eyJrIjoiNWYyYzNkNWUtMzQwYS00MzMxLWE0MWQtMzNiYjc2OWM2MDJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
